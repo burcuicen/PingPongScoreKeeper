@@ -37,6 +37,3 @@ This is a simple ping pong scorekeeper app built using HTML, JavaScript, and the
 
 Contributions are welcome! If you find any issues or want to enhance the app, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
